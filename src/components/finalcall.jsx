@@ -1,4 +1,4 @@
-import lineP from '../assets/lineP.png';
+import lineP from '../assets/purpleline.png';
 
 const FinalCallToAction = () => {
   return (
