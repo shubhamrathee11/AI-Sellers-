@@ -1,6 +1,6 @@
 import boxImage from "../assets/box.png";
 import checkIcon from "../assets/tick.png";
-import bgImage from "../assets/lineP.png";
+import bgImage from "../assets/purpleline.png";
 import Signup from './signup.jsx'
 import FinalCallToAction from './finalcall.jsx'
 
