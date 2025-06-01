@@ -1,6 +1,6 @@
 import boxImage from "../assets/box.png";
 import checkIcon from "../assets/tick.png";
-import bgImage from "../assets/purpleline.png";
+
 import Signup from './signup.jsx'
 import FinalCallToAction from './finalcall.jsx'
 
@@ -11,7 +11,7 @@ const WorkshopGlance = () => {
       <section
         className="w-full py-16 px-6 flex flex-col items-center text-white font-poppins relative"
         style={{
-          backgroundImage: `url(${bgImage})`,
+       
           backgroundSize: "100% 75%",
           backgroundPosition: "center bottom",
           backgroundRepeat: "no-repeat",
