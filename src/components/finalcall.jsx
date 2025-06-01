@@ -1,4 +1,4 @@
-
+import cagebg from '../assets/purpleline.png';
 
 const FinalCallToAction = () => {
   return (
@@ -7,7 +7,7 @@ const FinalCallToAction = () => {
       style={{
         fontFamily: "Poppins, sans-serif",
         fontWeight: 400,
-     
+        backgroundImage: `url(${cagebg})`,
       }}
     >
       {/* Paragraph Content */}
